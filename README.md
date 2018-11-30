@@ -1,5 +1,6 @@
 # react-native
+https://facebook.github.io/react-native/docs/getting-started.html
 
-Startup
-1. react-natvie start
-2. react-natvie run-android
+- StartUp
+1. expo init [ProjectName]
+2. expo start --android
